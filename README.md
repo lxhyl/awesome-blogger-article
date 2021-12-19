@@ -7,7 +7,12 @@
 
 > 如果是手机或者小屏设备，你可以在左下角找到目录。   
 
-# 贡献 
+# 贡献    
+希望有趣的灵魂能被大家发现，欢迎推荐有趣的博主或文章。
+* 在[项目仓库](https://github.com/lxhyl/awesome-weibo)添加issues  
+* [【腾讯文档】有趣的博主推荐](https://docs.qq.com/form/page/DR0FFWnJsRmdoVkZJ?_w_tencentdocx_form=1)
 
-
-# 感谢  
+# 感谢   
+感谢这些小伙伴的贡献
+ 
+* [问道南山-盘尼西林](https://weibo.com/u/6317092641)
